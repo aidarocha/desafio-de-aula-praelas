@@ -12,7 +12,7 @@ for (let i = 0; i < cart.items.length; i++) {
     total += cart.items[i].quantity;
 
 valor += cart.items[i].price * cart.items[i].quantity;
-Pagarvalor = valor/100
+pagarValor = valor/100
 
 products += cart.items[i].title + "\n";
 }
@@ -21,5 +21,5 @@ products += cart.items[i].title + "\n";
 
 console.log("Produto(s) adicionado(s):" + products);
 console.log("Quantidade de itens:" + total + "\n");
-console.log("Valor Total:" + "R$" + Pagarvalor.toFixed(2) + "\n");
+console.log("Valor Total:" + "R$" + pagarValor.toFixed(2) + "\n");
 
