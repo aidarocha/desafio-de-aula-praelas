@@ -1,0 +1,135 @@
+
+{
+    "total_price":62700,
+    "currency":"BRL",
+    "item_count":3,
+    "items":[
+        {
+            "id":39499205345366,
+            "properties": {
+            },
+            "quantity":1,
+            "variant_id":39499205345366,
+            "key":"39499205345366:432efd58849ecdbf9c5addc557636bc4",
+            "title":"RASTEIRA SLIDE MARÍLIA DAMA DA NOITE - PRETO / 34 / DAMA DA NOITE",
+            "price":19900,
+            "url":"/products/rasteira-slide-marilia-dama-da-noite?variant=39499205345366",
+            "featured_image":{
+                "aspect_ratio":1.0,
+                "alt":"RASTEIRA SLIDE MARÍLIA DAMA DA NOITE",
+                "height":1414,
+                "url":"https://cdn.shopify.com/s/files/1/0249/0220/5526/products/MariliaDamadaNoitePretaLateral-Edit.jpg?v=1628681376",
+                "width":1414
+            },
+            "image":"https://cdn.shopify.com/s/files/1/0249/0220/5526/products/MariliaDamadaNoitePretaLateral-Edit.jpg?v=1628681376",
+            "handle":"rasteira-slide-marilia-dama-da-noite",
+            "product_type":"CALÇADOS",
+            "product_title":"RASTEIRA SLIDE MARÍLIA DAMA DA NOITE",
+            "variant_title":"PRETO / 34 / DAMA DA NOITE",
+            "variant_options":[
+                "PRETO",
+                "34",
+                "DAMA DA NOITE"
+            ],
+            "options_with_values":[
+                {
+                    "name":"Cor",
+                    "value":"PRETO"
+                },
+                {
+                    "name":"Tamanho",
+                    "value":"34"
+                },
+                {
+                    "name":"Estampa",
+                    "value":"DAMA DA NOITE"
+                }
+            ]
+       
+        },
+        {
+            "id":39486926717014,
+            "properties": {        
+            },
+            "quantity":1,
+            "variant_id":39486926717014,
+            "key":"39486926717014:574e9c89da96f2b1908cd8d3f0f0500a",
+            "title":"BOLSA SACO REVERSÍVEL EUCAPANTO MIX - TERROSO / U / EUCAPANTO",
+            "price":21900,
+            "product_id":6566627311702,
+            "url":"/products/eucapanto-mix-bolsa-saco?variant=39486926717014",
+            "featured_image":{
+                "aspect_ratio":1.0,
+                "alt":"BOLSA SACO REVERSÍVEL EUCAPANTO MIX",
+                "height":1414,
+                "url":"https://cdn.shopify.com/s/files/1/0249/0220/5526/products/EucapantoMixBolsaSaco_4.jpg?v=1619534974","width":1414},"image":"https://cdn.shopify.com/s/files/1/0249/0220/5526/products/EucapantoMixBolsaSaco_4.jpg?v=1619534974","handle":"eucapanto-mix-bolsa-saco",
+                "product_type":"ACESSÓRIOS",
+                "product_title":"BOLSA SACO REVERSÍVEL EUCAPANTO MIX",
+                "variant_title":"TERROSO / U / EUCAPANTO",
+                "variant_options":[
+                    "TERROSO",
+                    "U",
+                    "EUCAPANTO"
+                ],
+            "options_with_values":[
+                {
+                    "name":"Cor",
+                    "value":"TERROSO"
+                },
+                {
+                    "name":"Tamanho",
+                    "value":"U"
+                },
+                {
+                    "name":"Estampa",
+                    "value":"EUCAPANTO"
+                }
+            ]
+       
+        },
+        {
+            "id":39486917410902,
+            "properties": {        
+            },
+            "quantity":1,
+            "variant_id":39486917410902,
+            "key":"39486917410902:e0d463f8196714bdf1c81bed9243dd6c",
+            "title":"BOLSA SACO VELUDO COTELÊ CINZA E CREME INSECTA + NÁTALY NERI - CINZA / U / VELUDO COTELÊ",
+            "price":20900,
+            "product_id":6579650691158,
+            "url":"https:/products/veludo-cotele-cinza-e-creme-bolsa-saco-insecta-nataly-neri?variant=39486917410902",
+            "featured_image":{
+                "aspect_ratio":1.0,
+                "alt":"BOLSA SACO VELUDO COTELÊ CINZA E CREME INSECTA + NÁTALY NERI",
+                "height":4000,
+                "url":"https://cdn.shopify.com/s/files/1/0249/0220/5526/products/VeludoCoteleCinzaeCremeBolsaRedondinhaInsecta_NatalyNeri_1.png?v=1622055232",
+                "width":4000
+            },
+            "image":"https://cdn.shopify.com/s/files/1/0249/0220/5526/products/VeludoCoteleCinzaeCremeBolsaRedondinhaInsecta_NatalyNeri_1.png?v=1622055232",
+            "handle":"veludo-cotele-cinza-e-creme-bolsa-saco-insecta-nataly-neri",
+            "product_type":"ACESSÓRIOS",
+            "product_title":"BOLSA SACO VELUDO COTELÊ CINZA E CREME INSECTA + NÁTALY NERI",
+            "variant_title":"CINZA / U / VELUDO COTELÊ",
+            "variant_options":[
+                "CINZA",
+                "U",
+                "VELUDO COTELÊ"
+            ],
+            "options_with_values":[
+            {
+                "name":"Cor",
+                "value":"CINZA"
+            },
+            {
+                "name":"Tamanho",
+                "value":"U"
+            },
+            {
+                "name":"Estampa",
+                "value":"VELUDO COTELÊ"
+            }
+            ]
+        }
+        ]
+    
+}
