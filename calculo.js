@@ -14,12 +14,12 @@ for (let i = 0; i < cart.items.length; i++) {
 valor += cart.items[i].price * cart.items[i].quantity;
 pagarValor = valor/100
 
-products += cart.items[i].title + "\n";
+products += cart.items[i].title + "";
 }
 
         
 
-console.log("Produto(s) adicionado(s):" + products);
-console.log("Quantidade de itens:" + total + "\n");
-console.log("Valor Total:" + "R$" + pagarValor.toFixed(2) + "\n");
+console.log("Produto(s) adicionado(s): " + products);
+console.log("Quantidade de itens: " + total + "");
+console.log("Valor Total: " + "R$" + pagarValor.toFixed(2) + "");
 
