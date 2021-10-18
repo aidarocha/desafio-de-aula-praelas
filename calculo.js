@@ -19,7 +19,7 @@ products += cart.items[i].title + "";
 
         
 
-console.log("Produto(s) adicionado(s): " + products);
-console.log("Quantidade de itens: " + total + "");
-console.log("Valor Total: " + "R$" + pagarValor.toFixed(2) + "");
+console.log("Produto(s) adicionado(s): " + "\n" + products + "\n");
+console.log("Quantidade de itens: " + total + "\n");
+console.log("Valor Total: " + "R$" + pagarValor.toFixed(2) + "\n");
 
